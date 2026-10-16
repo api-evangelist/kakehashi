@@ -2,6 +2,20 @@
   "repo": "kakehashi",
   "feeds": [
     {
+      "source": "https://blog.kakehashi.life/rss",
+      "feed_url": "https://blog.kakehashi.life/rss",
+      "title": "",
+      "saved": 1,
+      "method": "feed"
+    },
+    {
+      "source": "https://blog.kakehashi.life/",
+      "feed_url": "https://blog.kakehashi.life/rss",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
       "source": "https://kakehashi.life",
       "feed_url": "https://kakehashi.life",
       "title": "",
@@ -9,6 +23,6 @@
       "method": "none"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-10-03T12:30:02Z"
+  "post_count": 1,
+  "fetched": "2026-10-10T13:15:00Z"
 }
